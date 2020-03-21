@@ -45,9 +45,9 @@ class PhotoMapViewController: UIViewController, UIImagePickerControllerDelegate,
     }
 
     
-    override func performSegue(withIdentifier identifier: String, sender: Any?) {
-        onCameraTap(sender: self)
-    }
+//    override func performSegue(withIdentifier identifier: String, sender: Any?) {
+//        onCameraTap(sender: self)
+//    }
     
     
     

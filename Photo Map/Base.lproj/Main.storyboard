@@ -28,7 +28,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="camera"/>
                                 <connections>
-                                    <action selector="onCameraTap" destination="ghP-Ww-KKQ" eventType="touchUpInside" id="Lwq-Pd-ufB"/>
+                                    <action selector="onCameraTapWithSender:" destination="ghP-Ww-KKQ" eventType="touchUpInside" id="iKa-QA-vcV"/>
                                 </connections>
                             </button>
                         </subviews>
